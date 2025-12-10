@@ -1,5 +1,5 @@
-# Week-12-Lecture
-Week-12-Lecture
+# Week-13-Lecture
+Week-13-Lecture
 
 ### 역전파는 어떻게 AI의 암흑기를 끝내고 딥러닝의 시작을 열었는가?
 * 논문명: Learning representations by back-propagating errors”(Rumelhart, Hinton, Williams, 1986)

@@ -63,6 +63,6 @@ Week-13-Lecture
 
 ### 참고 영상
 
-* [유튜브 영상해설 GAN](https://www.youtube.com/watch?v=LXUvQUoI1xk)
+* [유튜브 영상해설 GAN+신박AI](https://www.youtube.com/watch?v=LXUvQUoI1xk)
 * [유튜브 영상해설 GAN+동빈나](https://www.youtube.com/watch?v=AVvlDmhHgC4&t=2028s)
 

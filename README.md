@@ -59,4 +59,10 @@ Week-13-Lecture
 
 ### 참고 파일
 
-* 논문1. 
+* 논문1. GAN
+
+### 참고 영상
+
+* [유튜브 영상해설 GAN](https://www.youtube.com/watch?v=tkH7KgLZc0E)
+* [유튜브 영상해설 역전파 2](https://www.youtube.com/watch?v=HKqdFQfXVhw&t=1s)
+

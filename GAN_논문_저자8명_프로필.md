@@ -2,9 +2,9 @@
 
 > 논문: **Generative Adversarial Nets** (Goodfellow 외 7명, NeurIPS 2014)  
 > 원문: https://arxiv.org/abs/1406.2661  
-> **사진 안내:** 아래 사진은 8명의 연구자를 한 장에 소개한 외부 웹 이미지입니다. 인터넷 연결이 있는 Markdown 뷰어에서 표시되며, 원본 이미지의 저작권은 제공처에 있습니다. 이 파일에는 사진 자체가 내장되어 있지 않습니다.
+> 
 
-![GAN 논문 공동저자 8명의 얼굴 사진 및 이름이 포함된 이미지](https://labelyourdata.com/img/article-illustrations/history-ml/Goodfellow-Pouget-Abadie-Mirza-Xu-Warde-Farley-Generative-adversarial-networks.jpg)
+![GAN 논문 공동저자](https://labelyourdata.com/img/article-illustrations/history-ml/Goodfellow-Pouget-Abadie-Mirza-Xu-Warde-Farley-Generative-adversarial-networks.jpg)
 
 *사진 출처: [Label Your Data의 머신러닝 역사 소개 자료](https://labelyourdata.com/img/article-illustrations/history-ml/Goodfellow-Pouget-Abadie-Mirza-Xu-Warde-Farley-Generative-adversarial-networks.jpg). 사진의 인물 표기와 원 논문의 저자 순서를 함께 확인하세요.*
 

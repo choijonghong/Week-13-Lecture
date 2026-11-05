@@ -1,4 +1,4 @@
-# GAN 논문 전체 저자 8명: 사진과 연구 분야
+# GAN 논문 전체 저자(8명)
 
 > 논문: **Generative Adversarial Nets** (Goodfellow 외 7명, NeurIPS 2014)  
 > 원문: https://arxiv.org/abs/1406.2661  

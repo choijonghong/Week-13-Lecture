@@ -103,8 +103,6 @@
 - **이론적 목표:** 충분한 모델 용량과 이상적인 최적화 조건에서 생성 분포가 실제 분포와 일치하는 상태를 추구한다.
 - **중요성:** GAN은 이미지 생성과 이미지 변환 등 생성형 AI의 후속 연구를 촉진했다.
 
-> **연구 윤리상 주의:** 원 논문에는 저자별 세부 작업 분담이 명시되어 있지 않다. 따라서 저자 순서만으로 GAN 개발 기여의 정확한 비중을 판단하지 않는다.
-
 ## 참고 자료 및 사진 출처
 
 1. Goodfellow 외 (2014), *Generative Adversarial Nets*, NeurIPS. https://papers.neurips.cc/paper_files/paper/2014/hash/f033ed80deb0234979a61f95710dbe25-Abstract.html
@@ -112,5 +110,3 @@
 3. Jean Pouget-Abadie 공식 홈페이지: https://jean.pouget-abadie.com/
 4. Mirza & Osindero, *Conditional Generative Adversarial Nets*: https://arxiv.org/abs/1411.1784
 5. 8인 사진 이미지 출처: https://labelyourdata.com/img/article-illustrations/history-ml/Goodfellow-Pouget-Abadie-Mirza-Xu-Warde-Farley-Generative-adversarial-networks.jpg
-
-*작성 안내: 본 Markdown 파일의 사진은 외부 URL을 참조하므로 인터넷이 끊긴 환경에서는 표시되지 않을 수 있습니다.*
